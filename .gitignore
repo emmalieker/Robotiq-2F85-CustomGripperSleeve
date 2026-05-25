@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+._*
+
+# Blender
+*.blend1
+*.blend2
+
+# Thumbnails
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

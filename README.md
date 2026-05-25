@@ -2,13 +2,13 @@
 
 A growing, open-source collection of 3D-printable, slide-on gripper attachments for the **Robotiq 2F-85** adaptive gripper.
 
-![GS_Pincher mounted on Robotiq 2F-85](GS_Pincher/GS_Pincher_00.png)
-
 <p align="center">
   <img src="GS_Pincher/GS_Pincher_Turntable.gif" alt="GS_Pincher 360° turntable" width="400">
 </p>
 
 ## What Is This?
+
+<img align="right" width="280" src="GS_Pincher/GS_Pincher_04.png" alt="Exploded view — sleeve and tip separated">
 
 The Robotiq 2F-85 is a widely used industrial gripper, but its stock finger pads are general-purpose. Different tasks — precision picks, soft-object handling, cylindrical grasps — benefit from different tip geometries.
 
@@ -19,7 +19,18 @@ This project provides a **modular sleeve-and-tip system**:
 
 Swap tips in seconds without tools. Print what you need.
 
-![Exploded view — sleeve and tip separated](GS_Pincher/GS_Pincher_04.png)
+<br clear="both">
+
+## How It Works
+
+<img align="right" width="280" src="GS_Pincher/GS_Pincher_05.png" alt="Assembly — tip sliding onto sleeve">
+
+1. **Print** the sleeve and tip for your chosen attachment (STL files in each subfolder).
+2. **Slide the sleeve** onto the Robotiq 2F-85 finger pad — it snaps on with a friction fit. Optional screw holes are provided if you need to bolt the sleeve down for front-to-back force resistance.
+3. **Slide the tip** onto the sleeve — again, pure slide-on fit.
+4. To swap tips, pull off the current tip and slide on a different one. The sleeve stays in place.
+
+<br clear="both">
 
 ## Available Attachments
 
@@ -28,15 +39,6 @@ Swap tips in seconds without tools. Print what you need.
 | **GS_Pincher** | Pointed precision tip for small-object and pinch grasps | [`GS_Pincher/`](GS_Pincher/) |
 
 *More attachments coming soon.*
-
-## How It Works
-
-1. **Print** the sleeve and tip for your chosen attachment (STL files in each subfolder).
-2. **Slide the sleeve** onto the Robotiq 2F-85 finger pad — it snaps on with a friction fit. Optional screw holes are provided if you need to bolt the sleeve down for front-to-back force resistance.
-3. **Slide the tip** onto the sleeve — again, pure slide-on fit.
-4. To swap tips, pull off the current tip and slide on a different one. The sleeve stays in place.
-
-![Assembly — tip sliding onto sleeve](GS_Pincher/GS_Pincher_05.png)
 
 ## Repository Structure
 

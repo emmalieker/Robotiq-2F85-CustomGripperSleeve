@@ -19,11 +19,11 @@ Each finger requires **two printed parts** (four total for both fingers):
 
 <br clear="both">
 
-## Open & Closed Position
+## Assembled / Dissembled Position
 
-| Open | Closed |
+| Assembled | Dissembled |
 |---|---|
-| ![Front view — open](GS_Pincher_01.png) | ![Front view — closed](GS_Pincher_02.png) |
+| ![Front view — assembled](GS_Pincher_01.png) | ![Front view — dissembled](GS_Pincher_02.png) |
 
 ## Sleeve Detail
 

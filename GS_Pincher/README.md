@@ -11,6 +11,7 @@ A pointed precision tip attachment for the [GripperSleeve Collection](../README.
 <img align="right" width="280" src="GS_Pincher_00.png" alt="GS_Pincher mounted on Robotiq 2F-85">
 
 The GS_Pincher provides a narrow, pointed grip geometry for tasks requiring precision contact — small object manipulation, pick-and-place of thin or delicate parts, and pinch grasps on items where the stock flat pads are too wide.
+
 The tip design is adapted from the [viperx_gripper_stl.stl](https://github.com/tonyzhaozh/aloha/blob/main/aloha2/viperx_gripper_stl.zip) from the Aloha2 project.
 
 Each finger requires **two printed parts** (four total for both fingers):

@@ -37,9 +37,9 @@ The pincher tip then slides onto the sleeve — no tools or hardware needed for 
 
 <br clear="both">
 
-## Exploded & Wireframe Views
+## Closeup & Wireframe Views
 
-<img align="left" width="280" src="GS_Pincher_08.png" alt="Exploded — tip separated from sleeve">
+<img align="left" width="280" src="GS_Pincher_08.png" alt="Closeup — tip separated from sleeve">
 
 The tip and sleeve are printed as separate parts and snap together. The wireframe views below show the internal geometry of each part.
 
@@ -75,7 +75,7 @@ The combined STL contains all four parts (2 sleeves + 2 tips). Orientation as sh
 | **Material** | PLA or PETG (PETG preferred for durability) |
 | **Layer height** | 0.2 mm |
 | **Infill** | 40–60% (higher for more rigidity) |
-| **Supports** | May be needed for sleeve overhang — check slicer preview |
+| **Supports** | May be needed for sleeve overhang — check slicer preview. Consider tree supports. |
 | **Walls/perimeters** | 3+ for structural strength |
 
 *These are starting-point suggestions. Adjust based on your printer and use case.*
@@ -86,11 +86,10 @@ The combined STL contains all four parts (2 sleeves + 2 tips). Orientation as sh
 |---|---|
 | `GS_Pincher.stl` | Pincher tips only |
 | `GS_Pincher_incl_Sleeve.stl` | Pincher tips + sleeves combined |
-| `GS_Pincher_Turntable.gif` | Animated 360° turntable |
+| `GS_Pincher_Turntable.gif` | Animated Assemby |
 | `GS_Pincher_00.png` – `GS_Pincher_10.png` | Rendered views |
 | `GS_Pincher_Wire_00.png`, `GS_Pincher_Wire_01.png` | Wireframe views |
 | `GS_Pincher_Printlayout.png` | Print orientation reference |
-| `Turntable/` | 360° turntable render sequence (individual frames) |
 
 ## License
 

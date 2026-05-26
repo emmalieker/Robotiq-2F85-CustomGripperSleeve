@@ -1,6 +1,6 @@
 # GripperSleeve Collection — Robotiq 2F-85
 
-A growing, open-source collection of 3D-printable, slide-on gripper attachments for the **Robotiq 2F-85** adaptive gripper.
+A growing, open-source collection of 3D-printable, slide-on gripper attachments for the **Robotiq 2F-85** adaptive gripper. Snap- and slide-fit: no hardware needed for assembly.
 
 <p align="center">
   <img src="GS_Pincher/GS_Pincher_Turntable.gif" alt="GS_Pincher 360° turntable" width="400">
@@ -54,9 +54,8 @@ GripperSleeve_Collection/
 │   ├── GS_Pincher.stl              ← Pincher tips only
 │   ├── GS_Pincher_incl_Sleeve.stl  ← Pincher tips + sleeves combined
 │   ├── GS_Pincher_*.png            ← Renders and screenshots
-│   └── Turntable/                  ← 360° turntable renders
 │
-└── GS_[Future]/                    ← Future attachments follow the same layout
+└── GS_[...]/                    ← Future attachments follow the same layout
     ├── README.md
     ├── *.stl
     └── ...
@@ -64,7 +63,7 @@ GripperSleeve_Collection/
 
 ## Compatibility
 
-Designed and tested for the **Robotiq 2F-85** adaptive gripper. The sleeve geometry is modeled against the stock finger pad dimensions; other Robotiq models have not been tested.
+Designed for the **Robotiq 2F-85** adaptive gripper. The sleeve geometry is modeled against the stock finger pad dimensions; other Robotiq models have not been tested.
 
 ## License
 

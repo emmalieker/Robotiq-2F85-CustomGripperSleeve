@@ -21,6 +21,33 @@ Swap tips in seconds without tools. Print what you need.
 
 <br clear="both">
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**What Is This?**
+
+The Robotiq 2F-85 is a widely used industrial gripper...
+
+This project provides a **modular sleeve-and-tip system:**
+1. **Sleeve** — a 3D-printed cover...
+2. **Exchangeable tips** — attachments...
+
+Swap tips in seconds without tools. Print what you need.
+
+**Printable Parts:**
+
+<img src="path/to/printables_preview.png" width="100%">
+
+</td>
+<td width="50%" valign="top">
+
+<img src="GS_Pincher/GS_Pincher_04.png" width="100%">
+
+</td>
+</tr>
+</table>
+
 
 ## How It Works
 

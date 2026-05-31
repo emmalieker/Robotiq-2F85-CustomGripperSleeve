@@ -23,7 +23,7 @@ Swap tips in seconds without tools. Print what you need.
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="70%" valign="top">
 
 **What Is This?**
 
@@ -40,7 +40,7 @@ Swap tips in seconds without tools. Print what you need.
 <img src="path/to/printables_preview.png" width="100%">
 
 </td>
-<td width="50%" valign="top">
+<td width="30%" valign="top">
 
 <img src="GS_Pincher/GS_Pincher_04.png" width="50%">
 

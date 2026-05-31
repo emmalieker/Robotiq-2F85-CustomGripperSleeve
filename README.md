@@ -42,7 +42,7 @@ Swap tips in seconds without tools. Print what you need.
 </td>
 <td width="50%" valign="top">
 
-<img src="GS_Pincher/GS_Pincher_04.png" width="100%">
+<img src="GS_Pincher/GS_Pincher_04.png" width="50%">
 
 </td>
 </tr>

@@ -1,6 +1,6 @@
 # GS_Pincher — Precision Pincher Tip
 
-A pointed precision tip attachment for the [GripperSleeve Collection](../README.md), designed for the **Robotiq 2F-85** gripper.
+A pointed precision tip attachment for the [GripperSleeve Collection](../README.md), designed for the **Robotiq 2F-85** gripper. The precision tips slide on to the gripper sleeve without screws or any further hardware required. 
 
 <p align="center">
   <img src="GS_Pincher_00_Turntable.gif" alt="GS_Pincher 360° turntable" width="400">
@@ -12,10 +12,12 @@ A pointed precision tip attachment for the [GripperSleeve Collection](../README.
 
 The GS_Pincher provides a narrow, pointed grip geometry for tasks requiring precision contact — small object manipulation, pick-and-place of thin or delicate parts, and pinch grasps on items where the stock flat pads are too wide.
 
+The tip design is adapted from the [viperx_gripper_stl.stl](https://github.com/tonyzhaozh/aloha/blob/main/aloha2/viperx_gripper_stl.zip) from the Aloha2 project.
+
 Each finger requires **two printed parts** (four total for both fingers):
 
 1. **Sleeve** — snaps over the stock Robotiq 2F-85 finger pad
-2. **Pincher tip** — slides onto the sleeve
+2. **Pincher tip** — slides onto the sleeve (optional fixation of the slider via screwholes)
 
 <br clear="both">
 
@@ -67,10 +69,10 @@ The combined STL contains all four parts (2 sleeves + 2 tips). Orientation as sh
 
 | Parameter | Recommendation |
 |---|---|
-| **Material** | PLA or PETG (PETG preferred for durability) |
+| **Material** | PETG recommended; PLA also works. PA (Nylon) is fine for higher wear resistance. |
 | **Layer height** | 0.2 mm |
 | **Infill** | 40–60% (higher for more rigidity) |
-| **Supports** | May be needed for sleeve overhang — check slicer preview |
+| **Supports** | May be needed for sleeve overhang — check slicer preview. Consider tree supports. |
 | **Walls/perimeters** | 3+ for structural strength |
 
 *These are starting-point suggestions. Adjust based on your printer and use case.*

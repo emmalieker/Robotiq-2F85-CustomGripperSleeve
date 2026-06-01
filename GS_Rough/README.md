@@ -61,7 +61,7 @@ The combined STL contains all four parts (2 sleeves + 2 tips). Orientation as sh
 
 | Parameter | Recommendation |
 |---|---|
-| **Material** | PLA or PETG (PETG preferred for durability) |
+| **Material** | PETG recommended; PLA also works. PA (Nylon) is fine for higher wear resistance. |
 | **Layer height** | 0.2 mm |
 | **Infill** | 40–60% (higher for more rigidity) |
 | **Supports** | May be needed for textured surface overhang — check slicer preview |

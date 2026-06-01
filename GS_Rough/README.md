@@ -3,12 +3,12 @@
 A textured grip tip attachment for the [GripperSleeve Collection](../README.md), designed for the **Robotiq 2F-85** gripper.
 
 <p align="center">
-  <img src="GS_Rough_00_Turntable.gif" alt="GS_Rough 360° turntable" width="400">
+  <img src="Demo/GS_Rough_00_Turntable.gif" alt="GS_Rough 360° turntable" width="400">
 </p>
 
 ## Overview
 
-<img align="right" width="280" src="GS_Rough_01_front_Assembled.png" alt="GS_Rough assembled — front view">
+<img align="right" width="280" src="Demo/GS_Rough_01_front_Assembled.png" alt="GS_Rough assembled — front view">
 
 The GS_Rough provides a high-friction grip surface for tasks where the stock flat pads can't hold reliably — smooth, slippery, or cylindrical objects. The contact face features a dense array of raised nubs, and the top edge is serrated for additional purchase.
 
@@ -23,12 +23,12 @@ Each finger requires **two printed parts** (four total for both fingers):
 
 | Assembled | Disassembled |
 |---|---|
-| ![Assembled](GS_Rough_01_front_Assembled.png) | ![Disassembled](GS_Rough_01_front_Disassembled.png) |
+| <img height="300" src="Demo/GS_Rough_01_front_Assembled.png"> | <img height="300" src="Demo/GS_Rough_01_front_Disassembled.png"> |
 
 ## Slide-On Assembly
 
-<img align="right" width="160" src="GS_Rough_02_Slider_inner.png" alt="Slider — inner view">
-<img align="right" width="160" src="GS_Rough_02_Slider_outer.png" alt="Slider — outer view">
+<img align="right" height="250" src="Demo/GS_Rough_02_Slider_outer.png" alt="Slider — outer view">
+<img align="right" height="250" src="Demo/GS_Rough_02_Slider_inner.png" alt="Slider — inner view">
 
 The sleeve clips directly onto the stock Robotiq 2F-85 finger pad via friction fit. Optional screw holes are built in for bolting the sleeve down under front-to-back forces. The rough tip then slides onto the sleeve — no tools or hardware needed.
 
@@ -38,7 +38,7 @@ The sleeve clips directly onto the stock Robotiq 2F-85 finger pad via friction f
 
 | Tip geometry | Sleeve geometry |
 |---|---|
-| ![Wireframe — tip](GS_Rough_03_Wire_00.png) | ![Wireframe — sleeve](GS_Rough_03_Wire_01.png) |
+| <img height="300" src="Demo/GS_Rough_03_Wire_00.png"> | <img height="300" src="Demo/GS_Rough_03_Wire_01.png"> |
 
 ## Assembly Instructions
 
@@ -53,7 +53,7 @@ To swap to a different tip, pull the rough tip off the sleeve and slide on the r
 
 | Layout | Parts |
 |---|---|
-| ![Print layout](GS_Rough_03_Print_Layout.png) | ![Print parts](GS_Rough_03_Print_Parts.png) |
+| <img height="300" src="Demo/GS_Rough_03_Print_Layout.png"> | <img height="300" src="Demo/GS_Rough_03_Print_Parts.png"> |
 
 ## Suggested Print Settings
 
@@ -73,13 +73,7 @@ To swap to a different tip, pull the rough tip off the sleeve and slide on the r
 |---|---|
 | `GS_Rough.stl` | Rough tips only |
 | `GS_Rough_inclSleeves.stl` | Rough tips + sleeves combined |
-| `GS_Rough_00_Turntable.gif` | Animated 360° turntable |
-| `GS_Rough_01_front_Assembled/Disassembled.png` | Front views |
-| `GS_Rough_01_side_Assembled/Disassembled.png` | Side views |
-| `GS_Rough_02_Slider_inner/outer.png` | Slide-on detail |
-| `GS_Rough_03_Print_Layout.png` | Print orientation reference |
-| `GS_Rough_03_Print_Parts.png` | Individual parts |
-| `GS_Rough_03_Wire_00/01.png` | Wireframe views |
+| `Demo/` | All rendered views, turntable GIF, wireframes, and print layout images |
 
 ## License
 

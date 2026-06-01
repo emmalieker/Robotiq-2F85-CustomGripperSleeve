@@ -3,12 +3,12 @@
 A growing, open-source collection of 3D-printable, slide-on gripper attachments for the **Robotiq 2F-85** adaptive gripper. Snap- and slide-fit: no hardware needed for assembly.
 
 <p align="center">
-  <img src="GS_Pincher/GS_Pincher_00_Turntable.gif" alt="GS_Pincher 360° turntable" width="400">
+  <img src="GS_Pincher/Demo/GS_Pincher_00_Turntable.gif" alt="GS_Pincher 360° turntable" width="400">
 </p>
 
 ## What Is This?
 
-<img align="right" width="280" src="GS_Pincher/GS_Pincher_01_front_Disassembled.png" alt="Disassembled view — sleeve and tip separated">
+<img align="right" width="280" src="GS_Pincher/Demo/GS_Pincher_01_front_Disassembled.png" alt="Disassembled view — sleeve and tip separated">
 
 The Robotiq 2F-85 is a widely used industrial gripper, but its stock finger pads are general-purpose. Different tasks — precision picks, soft-object handling, cylindrical grasps — benefit from different tip geometries.
 
@@ -24,7 +24,7 @@ Swap tips in seconds without tools. Print what you need.
 
 ## How It Works
 
-<img align="right" width="280" src="GS_Pincher/GS_Pincher_02_Slide.png" alt="Assembly — tip sliding onto sleeve">
+<img align="right" width="280" src="GS_Pincher/Demo/GS_Pincher_02_Slide.png" alt="Assembly — tip sliding onto sleeve">
 
 1. **Print** the sleeve and tip for your chosen attachment (STL files in each subfolder).
 2. **Slide the sleeve** onto the Robotiq 2F-85 finger pad — it snaps on with a friction fit. Optional screw holes are provided if you need to bolt the sleeve down for front-to-back force resistance.
@@ -55,13 +55,13 @@ GripperSleeve_Collection/
 │   ├── README.md                   ← Attachment-specific details & print settings
 │   ├── GS_Pincher.stl              ← Pincher tips only
 │   ├── GS_Pincher_incl_Sleeve.stl  ← Pincher tips + sleeves combined
-│   ├── GS_Pincher_*.png            ← Renders and screenshots
+│   └── Demo/                       ← Renders, wireframes, turntable GIF
 │
 ├── GS_Rough/                       ← High-friction textured tip
 │   ├── README.md
 │   ├── GS_Rough.stl
 │   ├── GS_Rough_inclSleeves.stl
-│   └── GS_Rough_*.png
+│   └── Demo/
 │
 └── GS_[...]/                       ← Future attachments follow the same layout
     ├── README.md

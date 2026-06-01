@@ -61,8 +61,7 @@ GripperSleeve_Collection/
 │   ├── README.md
 │   ├── GS_Rough.stl
 │   ├── GS_Rough_inclSleeves.stl
-│   ├── GS_Rough_*.png
-│   └── Turntable/
+│   └── GS_Rough_*.png
 │
 └── GS_[...]/                       ← Future attachments follow the same layout
     ├── README.md

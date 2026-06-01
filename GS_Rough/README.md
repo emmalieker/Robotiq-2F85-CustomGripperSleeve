@@ -82,7 +82,7 @@ The combined STL contains all four parts (2 sleeves + 2 tips). Orientation as sh
 | `GS_Rough_03_Print_Layout.png` | Print orientation reference |
 | `GS_Rough_03_Print_Parts.png` | Individual parts |
 | `GS_Rough_03_Wire_00.png`, `GS_Rough_03_Wire_01.png` | Wireframe views |
-| `Turntable/` | 360° turntable render sequence (individual frames) |
+
 
 ## License
 

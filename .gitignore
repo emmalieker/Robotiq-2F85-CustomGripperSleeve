@@ -6,6 +6,10 @@
 *.blend1
 *.blend2
 
+# Screenshots & temp prefixes
+Screenshot*
+XXX*
+
 # Thumbnails
 Thumbs.db
 

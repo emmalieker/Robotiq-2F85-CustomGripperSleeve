@@ -8,7 +8,10 @@ A pointed precision tip attachment for the [GripperSleeve Collection](../README.
 
 ## Overview
 
-<img align="right" width="280" src="Demo/GS_Pincher_01_front_Assembled.png" alt="GS_Pincher assembled — front view">
+<table align="left"><tr>
+<td><strong>Assembled</strong><br><img height="250" src="Demo/GS_Pincher_01_front_Assembled.png"></td>
+<td><strong>Disassembled</strong><br><img height="250" src="Demo/GS_Pincher_01_front_Disassembled.png"></td>
+</tr></table>
 
 The GS_Pincher provides a narrow, pointed grip geometry for tasks requiring precision contact — small object manipulation, pick-and-place of thin or delicate parts, and pinch grasps on items where the stock flat pads are too wide.
 
@@ -20,12 +23,6 @@ Each finger requires **two printed parts** (four total for both fingers):
 2. **Pincher tip** — slides onto the sleeve (optional fixation of the slider via screwholes)
 
 <br clear="both">
-
-## Assembled & Disassembled
-
-| Assembled | Disassembled |
-|---|---|
-| <img height="300" src="Demo/GS_Pincher_01_front_Assembled.png"> | <img height="300" src="Demo/GS_Pincher_01_front_Disassembled.png"> |
 
 ## Slide-On Assembly
 

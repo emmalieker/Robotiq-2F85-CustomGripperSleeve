@@ -21,12 +21,11 @@ Each finger requires **two printed parts** (four total for both fingers):
 
 <br clear="both">
 
-## Assembled & Disassembled Views
+## Assembled & Disassembled
 
-| | Front | Side |
-|---|---|---|
-| **Assembled** | ![Assembled — front](GS_Pincher_01_front_Assembled.png) | ![Assembled — side](GS_Pincher_01_side_Assembled.png) |
-| **Disassembled** | ![Disassembled — front](GS_Pincher_01_front_Disassembled.png) | ![Disassembled — side](GS_Pincher_01_side_Disassembled.png) |
+| Assembled | Disassembled |
+|---|---|
+| ![Assembled](GS_Pincher_01_front_Assembled.png) | ![Disassembled](GS_Pincher_01_front_Disassembled.png) |
 
 ## Slide-On Assembly
 

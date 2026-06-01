@@ -19,20 +19,20 @@ Each finger requires **two printed parts** (four total for both fingers):
 
 <br clear="both">
 
-## Assembled & Disassembled Views
+## Assembled & Disassembled
 
-| | Front | Side |
-|---|---|---|
-| **Assembled** | ![Assembled — front](GS_Rough_01_front_Assembled.png) | ![Assembled — side](GS_Rough_01_side_Assembled.png) |
-| **Disassembled** | ![Disassembled — front](GS_Rough_01_front_Disassembled.png) | ![Disassembled — side](GS_Rough_01_side_Disassembled.png) |
+| Assembled | Disassembled |
+|---|---|
+| ![Assembled](GS_Rough_01_front_Assembled.png) | ![Disassembled](GS_Rough_01_front_Disassembled.png) |
 
 ## Slide-On Assembly
 
-| Inner view | Outer view |
-|---|---|
-| ![Slider — inner](GS_Rough_02_Slider_inner.png) | ![Slider — outer](GS_Rough_02_Slider_outer.png) |
+<img align="right" width="160" src="GS_Rough_02_Slider_inner.png" alt="Slider — inner view">
+<img align="right" width="160" src="GS_Rough_02_Slider_outer.png" alt="Slider — outer view">
 
 The sleeve clips directly onto the stock Robotiq 2F-85 finger pad via friction fit. Optional screw holes are built in for bolting the sleeve down under front-to-back forces. The rough tip then slides onto the sleeve — no tools or hardware needed.
+
+<br clear="both">
 
 ## Wireframe Views
 
@@ -50,8 +50,6 @@ The sleeve clips directly onto the stock Robotiq 2F-85 finger pad via friction f
 To swap to a different tip, pull the rough tip off the sleeve and slide on the replacement. The sleeve stays mounted.
 
 ## Print Layout
-
-The combined STL contains all four parts (2 sleeves + 2 tips). Orientation as shown:
 
 | Layout | Parts |
 |---|---|
@@ -78,11 +76,10 @@ The combined STL contains all four parts (2 sleeves + 2 tips). Orientation as sh
 | `GS_Rough_00_Turntable.gif` | Animated 360° turntable |
 | `GS_Rough_01_front_Assembled/Disassembled.png` | Front views |
 | `GS_Rough_01_side_Assembled/Disassembled.png` | Side views |
-| `GS_Rough_02_Slider_inner.png`, `GS_Rough_02_Slider_outer.png` | Slide-on assembly |
+| `GS_Rough_02_Slider_inner/outer.png` | Slide-on detail |
 | `GS_Rough_03_Print_Layout.png` | Print orientation reference |
 | `GS_Rough_03_Print_Parts.png` | Individual parts |
-| `GS_Rough_03_Wire_00.png`, `GS_Rough_03_Wire_01.png` | Wireframe views |
-
+| `GS_Rough_03_Wire_00/01.png` | Wireframe views |
 
 ## License
 

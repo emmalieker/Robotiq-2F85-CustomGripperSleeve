@@ -21,10 +21,9 @@ Each finger requires **two printed parts** (four total for both fingers):
 
 ## Assembled & Disassembled Views
 
-| | Front | Side |
-|---|---|---|
-| **Assembled** | ![Assembled — front](GS_Rough_01_front_Assembled.png) | ![Assembled — side](GS_Rough_01_side_Assembled.png) |
-| **Disassembled** | ![Disassembled — front](GS_Rough_01_front_Disassembled.png) | ![Disassembled — side](GS_Rough_01_side_Disassembled.png) |
+| **Assembled** | **Disssembled** |
+|---|---|
+| ![Assembled — front](GS_Rough_01_front_Assembled.png) | ![Disassembled — front](GS_Rough_01_front_Disassembled.png) |
 
 ## Slide-On Assembly
 

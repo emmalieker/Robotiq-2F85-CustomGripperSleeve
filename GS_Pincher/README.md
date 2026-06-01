@@ -9,10 +9,11 @@ A pointed precision tip attachment for the [GripperSleeve Collection](../README.
 ## Overview
 
 <table align="left">
-<tr><th>Assembled</th><th>Disassembled</th></tr>
+<tr><th>Assembled</th><th>Disassembled</th><th>&nbsp;&nbsp;&nbsp;&nbsp;</th></tr>
 <tr>
 <td><img height="200" src="Demo/GS_Pincher_01_front_Assembled.png"></td>
 <td><img height="200" src="Demo/GS_Pincher_01_front_Disassembled.png"></td>
+<td></td>
 </tr>
 </table>
 

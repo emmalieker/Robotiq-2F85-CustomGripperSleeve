@@ -8,10 +8,9 @@ A textured grip tip attachment for the [GripperSleeve Collection](../README.md),
 
 ## Overview
 
-<table align="left"><tr>
-<td><strong>Assembled</strong><br><img height="250" src="Demo/GS_Rough_01_front_Assembled.png"></td>
-<td><strong>Disassembled</strong><br><img height="250" src="Demo/GS_Rough_01_front_Disassembled.png"></td>
-</tr></table>
+| Assembled | Disassembled |
+|---|---|
+| <img height="250" src="Demo/GS_Rough_01_front_Assembled.png"> | <img height="250" src="Demo/GS_Rough_01_front_Disassembled.png"> |
 
 The GS_Rough provides a high-friction grip surface for tasks where the stock flat pads can't hold reliably — smooth, slippery, or cylindrical objects. The contact face features a dense array of raised nubs, and the top edge is serrated for additional purchase.
 
@@ -19,8 +18,6 @@ Each finger requires **two printed parts** (four total for both fingers):
 
 1. **Sleeve** — snaps over the stock Robotiq 2F-85 finger pad
 2. **Rough tip** — slides onto the sleeve
-
-<br clear="both">
 
 ## Slide-On Assembly
 

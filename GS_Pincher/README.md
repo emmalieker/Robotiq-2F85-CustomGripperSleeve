@@ -8,10 +8,9 @@ A pointed precision tip attachment for the [GripperSleeve Collection](../README.
 
 ## Overview
 
-<table align="left"><tr>
-<td><strong>Assembled</strong><br><img height="250" src="Demo/GS_Pincher_01_front_Assembled.png"></td>
-<td><strong>Disassembled</strong><br><img height="250" src="Demo/GS_Pincher_01_front_Disassembled.png"></td>
-</tr></table>
+| Assembled | Disassembled |
+|---|---|
+| <img height="250" src="Demo/GS_Pincher_01_front_Assembled.png"> | <img height="250" src="Demo/GS_Pincher_01_front_Disassembled.png"> |
 
 The GS_Pincher provides a narrow, pointed grip geometry for tasks requiring precision contact — small object manipulation, pick-and-place of thin or delicate parts, and pinch grasps on items where the stock flat pads are too wide.
 
@@ -21,8 +20,6 @@ Each finger requires **two printed parts** (four total for both fingers):
 
 1. **Sleeve** — snaps over the stock Robotiq 2F-85 finger pad
 2. **Pincher tip** — slides onto the sleeve (optional fixation of the slider via screwholes)
-
-<br clear="both">
 
 ## Slide-On Assembly
 

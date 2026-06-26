@@ -3,12 +3,12 @@
 A growing, open-source collection of 3D-printable, slide-on gripper attachments for the **Robotiq 2F-85** adaptive gripper. Snap- and slide-fit: no hardware needed for assembly.
 
 <p align="center">
-  <img src="GS_Pincher/Demo/GS_Pincher_00_Turntable.gif" alt="GS_Pincher 360° turntable" width="400">
+  <img src="Demo/GS_Pincher_00_Turntable.gif" alt="GS_Pincher 360° turntable" width="400">
 </p>
 
 ## What Is This?
 
-<img align="right" width="280" src="GS_Pincher/Demo/GS_Pincher_01_front_Disassembled.png" alt="Disassembled view — sleeve and tip separated">
+<img align="right" width="280" src="Demo/GS_Pincher_01_front_Disassembled.png" alt="Disassembled view — sleeve and tip separated">
 
 The Robotiq 2F-85 is a widely used industrial gripper, but its stock finger pads are general-purpose. Different tasks — precision picks, soft-object handling, cylindrical grasps — benefit from different tip geometries.
 
@@ -24,7 +24,7 @@ Swap tips in seconds without tools. Print what you need.
 
 ## How It Works
 
-<img align="right" width="280" src="GS_Pincher/Demo/GS_Pincher_02_Slide.png" alt="Assembly — tip sliding onto sleeve">
+<img align="right" width="280" src="Demo/GS_Pincher_02_Slide_mid_01.png" alt="Assembly — Pincher tip sliding onto the sleeve (sleeve and tip only)">
 
 1. **Print** the sleeve and tip for your chosen attachment (STL files in each subfolder).
 2. **Slide the sleeve** onto the Robotiq 2F-85 finger pad — it snaps on with a friction fit. Optional screw holes are provided if you need to bolt the sleeve down for front-to-back force resistance.
@@ -38,7 +38,7 @@ Swap tips in seconds without tools. Print what you need.
 <table>
 <tr>
 <td width="30%" valign="top">
-<img src="Pincher_printed.png" alt="3D-printed GS_Pincher tips and sleeves slide-fit onto a Robotiq 2F-85 gripper" width="100%">
+<img src="Demo/Pincher_printed.png" alt="3D-printed GS_Pincher tips and sleeves slide-fit onto a Robotiq 2F-85 gripper" width="100%">
 </td>
 <td width="70%" valign="top">
 

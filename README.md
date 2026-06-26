@@ -24,7 +24,7 @@ Swap tips in seconds without tools. Print what you need.
 
 ## How It Works
 
-<img align="right" width="280" src="Demo/GS_Pincher_02_Slide_mid_01.png" alt="Assembly — Pincher tip sliding onto the sleeve (sleeve and tip only)">
+<img align="left" width="280" src="Demo/GS_Pincher_02_Slide_mid_01.png" alt="Assembly — Pincher tip sliding onto the sleeve (sleeve and tip only)">
 
 1. **Print** the sleeve and tip for your chosen attachment (STL files in each subfolder).
 2. **Slide the sleeve** onto the Robotiq 2F-85 finger pad — it snaps on with a friction fit. Optional screw holes are provided if you need to bolt the sleeve down for front-to-back force resistance.

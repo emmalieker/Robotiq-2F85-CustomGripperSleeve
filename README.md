@@ -33,6 +33,29 @@ Swap tips in seconds without tools. Print what you need.
 
 <br clear="both">
 
+## Printed & Mounted on the Robotiq 2F-85
+
+<table>
+<tr>
+<td width="30%" valign="top">
+<img src="Pincher_printed.png" alt="3D-printed GS_Pincher tips and sleeves slide-fit onto a Robotiq 2F-85 gripper" width="100%">
+</td>
+<td width="70%" valign="top">
+
+Here's the **GS_Pincher** off the print bed and on the hardware: the sleeves and precision tips printed and slide-fit onto an actual Robotiq 2F-85 arm.
+
+This is the same modular system shown in the renders above, validated on the real gripper:
+
+- The **sleeve** snaps onto the stock finger pad with a pure friction fit — no hardware required.
+- The **Pincher tips** slide onto the sleeve and seat with the same tool-free slide-on fit.
+- Swapping tips takes seconds; the sleeve stays in place on the finger pad.
+
+Printed in standard FDM filament. See [`GS_Pincher/README.md`](GS_Pincher/) for the recommended print settings and orientation.
+
+</td>
+</tr>
+</table>
+
 ## Available Attachments
 
 | Attachment | Description | Folder |
